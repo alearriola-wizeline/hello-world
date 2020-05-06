@@ -1,3 +1,2 @@
 Hello! 
-My name is Ale Arriola Ortiz.
-This is a new test.  
+This is a test repository. 
